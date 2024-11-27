@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35425.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "Node_Express_Signalling_Server", "Node_Express_Signalling_Server\Node_Express_Signalling_Server.njsproj", "{04924E7F-1A16-49DA-A4C6-FA27A1787DCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04924E7F-1A16-49DA-A4C6-FA27A1787DCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04924E7F-1A16-49DA-A4C6-FA27A1787DCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04924E7F-1A16-49DA-A4C6-FA27A1787DCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04924E7F-1A16-49DA-A4C6-FA27A1787DCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC9A46B9-473A-48BA-8BC0-B6E38446B32A}
+	EndGlobalSection
+EndGlobal
